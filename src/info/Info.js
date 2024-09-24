@@ -11,7 +11,8 @@ export let singlePage = false;
 
 
 export const info = {
-    firstName: "Shaik Hanifa",
+    firstName: "Shaik ",
+    lastName: "Hanifa",
     initials: "S", 
     position: "JAVA Full Stack Developer",
     selfPortrait: self, 
@@ -52,8 +53,8 @@ export const info = {
     bio: "As a passionate Java Fullstack Developer, I specialize in crafting robust, scalable, and high-performance web applications. With a solid foundation in both frontend and backend technologies, I thrive on transforming complex problems into elegant solutions.",
     skills:
         {
-            proficientWith: ['HTML', 'CSS', 'JavaScript', 'React JS', 'bootstrap',],
-            exposedTo: ['SQL', 'JAVA',  'JAVA DSA',]
+            proficientWith: ['HTML', 'CSS', 'JavaScript', 'React JS', 'JAVA','MY SQL'],
+            exposedTo: ['SQL', 'DSA using Java', 'Bootstrap']
         }
     ,
     hobbies: [
@@ -68,6 +69,10 @@ export const info = {
         {
             label: 'movies',
             emoji: '🎥'
+        },
+        {
+            label: 'Cooking',
+            emoji: '🍳'
         },
        
 
