@@ -11,8 +11,8 @@ export let singlePage = false;
 
 
 export const info = {
-    firstName: "Shaik ",
-    lastName: "Hanifa",
+    firstName: "Hanifa ",
+    lastName: "Shaik",
     initials: "S", 
     position: "JAVA Full Stack Developer",
     selfPortrait: self, 
