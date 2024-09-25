@@ -85,6 +85,7 @@ export const info = {
             source: "https://github.com/Hanifashaik/Netflix-clone", 
             image: mock1
         },
+        
        
        
     ]
