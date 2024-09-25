@@ -1,4 +1,5 @@
 import self from "../img/self.png"
+import mock1 from "../img/mock1.png"
 
 
 
@@ -77,5 +78,14 @@ export const info = {
        
 
     ],
-    
+    portfolio: [ 
+        {
+            title: "Project 1",
+            live: "https://netflix-clone-opal-zeta.vercel.app/", 
+            source: "https://github.com/Hanifashaik/Netflix-clone", 
+            image: mock1
+        },
+       
+       
+    ]
 }
